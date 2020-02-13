@@ -1,11 +1,11 @@
-# FriendsFingers' Faucet
+# BulkHead Token' Faucet
 
 [![Build Status](https://travis-ci.org/FriendsFingers/faucet-smartcontracts.svg?branch=master)](https://travis-ci.org/FriendsFingers/faucet-smartcontracts) 
 [![Coverage Status](https://coveralls.io/repos/github/FriendsFingers/faucet-smartcontracts/badge.svg)](https://coveralls.io/github/FriendsFingers/faucet-smartcontracts)
 [![MIT licensed](https://img.shields.io/github/license/FriendsFingers/faucet-smartcontracts.svg)](https://github.com/FriendsFingers/faucet-smartcontracts/blob/master/LICENSE)
 
 
-The FriendsFingers' Faucet Smart Contracts
+The BulkHead Token' Faucet Smart Contracts
 
 
 ## Development
